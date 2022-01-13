@@ -1,1 +1,5 @@
+echo "Hola GBI6" > test2.txt
+cat test2.txt
+echo "Hola GBI6" >> test2.txt
+print "Hola GBI6" >> test1. py
 
